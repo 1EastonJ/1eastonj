@@ -20,7 +20,7 @@ Previously, he had research experience under Prof. Rong Zheng at McMaster Univer
 
 Here are some demos of my research and projects:
 
-#### 🤖 Whole-body teleoperation (video)
+#### 🤖 [Robot arm teleoperation](https://github.com/1EastonJ/vive_piper) (video)
 <video width="480" controls>
   <source src="files/piper_teleop.mp4" 
     type="video/mp4">·
