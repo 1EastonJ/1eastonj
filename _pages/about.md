@@ -18,10 +18,8 @@ Previously, he gained research experience under **Prof. Rong Zheng** at **McMast
 
 ---
 
-### 🎥 Some of my recent projects
-
-Here are some demos of my research and projects:
-
+🎥 Some demo of my recent projects
+======
 #### 🤖 [Robot Arm Teleoperation](https://github.com/1EastonJ/vive_piper) (video)
 <video width="480" height="270" controls>
   <source src="files/piper_teleop.mp4" 
