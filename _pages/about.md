@@ -41,8 +41,6 @@ Here are some demos of my research and projects:
 
 News
 ======
-News
-======
 - 🧠 **2025.08 – Present:** Visiting student at the **University of Wisconsin–Madison**, working on **robotics and control** under **Prof. Xiaobin Xiong**.  
 
 - 📄 **2025.07:** Paper *“BSense: Wide-Area UAV Detection and Localization with 5G-Advanced Base Station”* under review at **ACM MobiCom 2026**.  
