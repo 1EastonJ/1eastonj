@@ -20,15 +20,19 @@ Previously, he had research experience under Prof. Rong Zheng at McMaster Univer
 
 Here are some demos of my research and projects:
 
-#### 🤖 [Robot arm teleoperation](https://github.com/1EastonJ/vive_piper) (video)
+#### 🤖 [Robot Arm Teleoperation](https://github.com/1EastonJ/vive_piper) (video)
 <video width="480" controls>
   <source src="files/piper_teleop.mp4" 
     type="video/mp4">·
   Your browser does not support the video tag.
 </video>
 
-#### 🌀 Diffusion-based motion generation (GIF)
-<img src="/images/diffusion_demo.gif" width="480" alt="Diffusion model demo">
+#### 🌀 Model-based UAV Tracking (video)
+<video width="480" controls>
+  <source src="files/piper_teleop.mp4" 
+    type="video/mp4">·
+  Your browser does not support the video tag.
+</video>
 
 #### 🦾 Robot manipulation (YouTube)
 <iframe width="480" height="270" src="https://www.youtube.com/embed/XXXXXXXXXXX" 
