@@ -14,6 +14,28 @@ He is currently an intern under the supervision of Prof. Xiaobin Xiong at the Un
 He is also fortunate to be advised by Prof. Yanyong Zhang from the School of Data Science, USTC.
 Previously, he had research experience under Prof. Rong Zheng at McMaster University and Prof. Kani Chen at HKUST.
 
+---
+
+### 🎥 Some of my recent projects
+
+Here are some demos of my research and projects:
+
+#### 🤖 Whole-body teleoperation (video)
+<video width="480" controls>
+  <source src="files/piper_teleop.mp4" 
+    type="video/mp4">·
+  Your browser does not support the video tag.
+</video>
+
+#### 🌀 Diffusion-based motion generation (GIF)
+<img src="/images/diffusion_demo.gif" width="480" alt="Diffusion model demo">
+
+#### 🦾 Robot manipulation (YouTube)
+<iframe width="480" height="270" src="https://www.youtube.com/embed/XXXXXXXXXXX" 
+title="Robot demo" frameborder="0" allowfullscreen></iframe>
+
+---
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
