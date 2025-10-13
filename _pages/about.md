@@ -69,25 +69,27 @@ Previously, he gained research experience under **Prof. Rong Zheng** at **McMast
 🎥 Some demo of my recent projects
 ======
 <h3 style="font-size:22px; font-weight:700; margin-bottom:0.5em; margin-top:1.4em;">
-🤖 <a href="https://github.com/1EastonJ/vive_piper" 
-style="color:#2b6def; text-decoration:none; border-bottom:2px solid transparent; transition:0.2s;">
-Robot Arm Teleoperation</a> 
-<span style="font-weight:400;">(video)</span>
+🤖 <a href="https://github.com/1EastonJ/vive_piper"
+style="color:#2b6def; text-decoration:none; border-bottom:2px solid transparent;"
+onmouseover="this.style.borderBottom='2px solid #2b6def'"
+onmouseout="this.style.borderBottom='2px solid transparent'">
+Robot Arm Teleoperation</a>
 </h3>
-<style>
-a:hover {
-  border-bottom:2px solid #2b6def;
-}
-</style>
+<video width="560" height="315" controls style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+  <source src="files/piper_teleop.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 <h3 style="font-size:22px; font-weight:700; margin-bottom:0.5em; margin-top:2em;">
-🌀 Model-based UAV Tracking <span style="font-weight:400;">(video)</span>
+🌀 Model-based UAV Tracking
 </h3>
 <video width="560" height="315" controls style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
   <source src="files/UAV_tracking.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 ---
 
