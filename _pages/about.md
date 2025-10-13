@@ -19,18 +19,49 @@ Previously, he gained research experience under **Prof. Rong Zheng** at **McMast
 
 🎓 Education
 ======
+<hr style="margin-top: 0.5em; margin-bottom: 1em;">
 
-- <img src="files/uwmadison_logo.png" alt="UW–Madison logo" width="30"/> **University of Wisconsin–Madison** — *Department of Mechanical Engineering*  
-  *Visiting International Student*  
-  <br>
-  *Aug 2025 – Jun 2026*
+<table style="width:100%; border-collapse:collapse;">
+  <!-- UW–Madison -->
+  <tr>
+    <td style="width:20%; vertical-align:top; text-align:center;">
+      <img src="files/uwmadison_logo.png" alt="UW–Madison Logo" width="90">
+    </td>
+    <td style="vertical-align:top;">
+      <b>University of Wisconsin–Madison</b> — <i>Department of Mechanical Engineering</i><br>
+      <i>Visiting International Student</i><br>
+      <i>Aug 2025 – Jun 2026</i>
+    </td>
+  </tr>
 
-- <img src="files/ustc_logo.png" alt="USTC logo" width="30"/> **University of Science and Technology of China (USTC)** — *School of Data Science (DS)*  
-  *B.Eng. in Data Science*  
-  *Sep 2022 – Jun 2026 (expected)*
+  <tr style="height:25px"></tr>
 
-- <img src="files/bnds_logo.png" alt="BNDS logo" width="30"/> **Beijing National Day School (北京十一学校)**  
-  *Sep 2019 – Jun 2022*
+  <!-- USTC -->
+  <tr>
+    <td style="width:20%; vertical-align:top; text-align:center;">
+      <img src="files/ustc_logo.png" alt="USTC Logo" width="90">
+    </td>
+    <td style="vertical-align:top;">
+      <b>University of Science and Technology of China (USTC)</b> — <i>School of Data Science (DS)</i><br>
+      <i>B.Eng. in Data Science</i><br>
+      <i>Sep 2022 – Jun 2026 (expected)</i>
+    </td>
+  </tr>
+
+  <tr style="height:25px"></tr>
+
+  <!-- Beijing 11 School -->
+  <tr>
+    <td style="width:20%; vertical-align:top; text-align:center;">
+      <img src="files/bnds_logo.png" alt="Beijing National Day School Logo" width="90">
+    </td>
+    <td style="vertical-align:top;">
+      <b>Beijing National Day School (北京十一学校)</b><br>
+      <i>Sep 2019 – Jun 2022</i>
+    </td>
+  </tr>
+</table>
+
 
   
 ---
