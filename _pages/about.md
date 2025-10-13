@@ -15,7 +15,7 @@ He is also fortunate to be advised by **Prof. Yanyong Zhang** from the School of
 
 Previously, he gained research experience under **Prof. Rong Zheng** at **McMaster University** and **Prof. Kani Chen** at **HKUST**.
 
----
+
 
 🎓 Education
 ======
