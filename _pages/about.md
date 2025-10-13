@@ -21,46 +21,47 @@ Previously, he gained research experience under **Prof. Rong Zheng** at **McMast
 ======
 <hr style="margin-top: 0.5em; margin-bottom: 1em;">
 
-<table style="width:100%; border-collapse:collapse;">
+<table style="width:100%; border-collapse:collapse; border:none;">
   <!-- UW–Madison -->
-  <tr>
-    <td style="width:20%; vertical-align:top; text-align:center;">
-      <img src="files/uwmadison_logo.png" alt="UW–Madison Logo" width="90">
+  <tr style="border:none;">
+    <td style="width:22%; vertical-align:top; text-align:center; border:none;">
+      <img src="files/uwmadison_logo.png" alt="UW–Madison Logo" width="95" style="margin-top:8px;">
     </td>
-    <td style="vertical-align:top;">
+    <td style="vertical-align:top; border:none;">
       <b>University of Wisconsin–Madison</b> — <i>Department of Mechanical Engineering</i><br>
       <i>Visiting International Student</i><br>
       <i>Aug 2025 – Jun 2026</i>
     </td>
   </tr>
 
-  <tr style="height:25px"></tr>
+  <tr style="height:30px; border:none;"></tr>
 
   <!-- USTC -->
-  <tr>
-    <td style="width:20%; vertical-align:top; text-align:center;">
-      <img src="files/ustc_logo.png" alt="USTC Logo" width="90">
+  <tr style="border:none;">
+    <td style="width:22%; vertical-align:top; text-align:center; border:none;">
+      <img src="files/ustc_logo.png" alt="USTC Logo" width="95" style="margin-top:8px;">
     </td>
-    <td style="vertical-align:top;">
+    <td style="vertical-align:top; border:none;">
       <b>University of Science and Technology of China (USTC)</b> — <i>School of Data Science (DS)</i><br>
       <i>B.Eng. in Data Science</i><br>
       <i>Sep 2022 – Jun 2026 (expected)</i>
     </td>
   </tr>
 
-  <tr style="height:25px"></tr>
+  <tr style="height:30px; border:none;"></tr>
 
   <!-- Beijing 11 School -->
-  <tr>
-    <td style="width:20%; vertical-align:top; text-align:center;">
-      <img src="files/bnds_logo.png" alt="Beijing National Day School Logo" width="90">
+  <tr style="border:none;">
+    <td style="width:22%; vertical-align:top; text-align:center; border:none;">
+      <img src="files/bnds_logo.png" alt="Beijing National Day School Logo" width="90" style="margin-top:8px;">
     </td>
-    <td style="vertical-align:top;">
+    <td style="vertical-align:top; border:none;">
       <b>Beijing National Day School (北京十一学校)</b><br>
       <i>Sep 2019 – Jun 2022</i>
     </td>
   </tr>
 </table>
+
 
 
   
