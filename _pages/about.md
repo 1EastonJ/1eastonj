@@ -21,7 +21,7 @@ Previously, he gained research experience under **Prof. Rong Zheng** at **McMast
 ======
 - **University of Wisconsin-Madison** — *Department of Mechanical Engineering*  
   *Visiting Internationl Student*
-  *Aug. 2025 - Jun. 2026*
+  *Aug 2025 - Jun 2026*
 
 - **University of Science and Technology of China (USTC)** — *School of Data Science (DS)*  
   *B.Eng. in Data Science*  
@@ -29,6 +29,7 @@ Previously, he gained research experience under **Prof. Rong Zheng** at **McMast
 
 - **Beijing National Day School(北京十一学校)**  
   *Sep 2019 – Jun 2022*
+  
 ---
 
 🎥 Some demo of my recent projects
