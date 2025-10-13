@@ -17,11 +17,9 @@ Previously, he gained research experience under **Prof. Rong Zheng** at **McMast
 
 ---
 
-<h2 style="font-size: 28px; font-weight: 700; margin-bottom: 0.6em;">
-🎓 Education
-</h2>
-<hr style="margin-top: 0.5em; margin-bottom: 1em;">
 
+🎓 Education
+======
 <table style="width:100%; border-collapse:collapse; border:none; font-size:17px; line-height:1.55;">
   <!-- UW–Madison -->
   <tr style="border:none;">
