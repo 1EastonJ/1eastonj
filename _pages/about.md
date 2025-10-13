@@ -21,43 +21,43 @@ Previously, he gained research experience under **Prof. Rong Zheng** at **McMast
 ======
 <hr style="margin-top: 0.5em; margin-bottom: 1em;">
 
-<table style="width:100%; border-collapse:collapse; border:none;">
+<table style="width:100%; border-collapse:collapse; border:none; font-size:17px; line-height:1.55;">
   <!-- UW–Madison -->
   <tr style="border:none;">
-    <td style="width:22%; vertical-align:top; text-align:center; border:none;">
-      <img src="files/uwmadison_logo.png" alt="UW–Madison Logo" width="95" style="margin-top:8px;">
+    <td style="width:20%; vertical-align:middle; text-align:center; border:none;">
+      <img src="files/uwmadison_logo.png" alt="UW–Madison Logo" width="110" style="margin-top:4px;">
     </td>
-    <td style="vertical-align:top; border:none;">
-      <b>University of Wisconsin–Madison</b> — <i>Department of Mechanical Engineering</i><br>
+    <td style="vertical-align:middle; border:none;">
+      <span style="font-size:18px; font-weight:600;">University of Wisconsin–Madison</span> — <i>Department of Mechanical Engineering</i><br>
       <i>Visiting International Student</i><br>
-      <i>Aug 2025 – Jun 2026</i>
+      <span style="font-size:16px;"><i>Aug 2025 – Jun 2026</i></span>
     </td>
   </tr>
 
-  <tr style="height:30px; border:none;"></tr>
+  <tr style="height:35px; border:none;"></tr>
 
   <!-- USTC -->
   <tr style="border:none;">
-    <td style="width:22%; vertical-align:top; text-align:center; border:none;">
-      <img src="files/ustc_logo.png" alt="USTC Logo" width="95" style="margin-top:8px;">
+    <td style="width:20%; vertical-align:middle; text-align:center; border:none;">
+      <img src="files/ustc_logo.png" alt="USTC Logo" width="110" style="margin-top:4px;">
     </td>
-    <td style="vertical-align:top; border:none;">
-      <b>University of Science and Technology of China (USTC)</b> — <i>School of Data Science (DS)</i><br>
+    <td style="vertical-align:middle; border:none;">
+      <span style="font-size:18px; font-weight:600;">University of Science and Technology of China (USTC)</span> — <i>School of Data Science (DS)</i><br>
       <i>B.Eng. in Data Science</i><br>
-      <i>Sep 2022 – Jun 2026 (expected)</i>
+      <span style="font-size:16px;"><i>Sep 2022 – Jun 2026 (expected)</i></span>
     </td>
   </tr>
 
-  <tr style="height:30px; border:none;"></tr>
+  <tr style="height:35px; border:none;"></tr>
 
   <!-- Beijing 11 School -->
   <tr style="border:none;">
-    <td style="width:22%; vertical-align:top; text-align:center; border:none;">
-      <img src="files/bnds_logo.png" alt="Beijing National Day School Logo" width="90" style="margin-top:8px;">
+    <td style="width:20%; vertical-align:middle; text-align:center; border:none;">
+      <img src="files/bnds_logo.png" alt="Beijing National Day School Logo" width="105" style="margin-top:4px;">
     </td>
-    <td style="vertical-align:top; border:none;">
-      <b>Beijing National Day School (北京十一学校)</b><br>
-      <i>Sep 2019 – Jun 2022</i>
+    <td style="vertical-align:middle; border:none;">
+      <span style="font-size:18px; font-weight:600;">Beijing National Day School (北京十一学校)</span><br>
+      <span style="font-size:16px;"><i>Sep 2019 – Jun 2022</i></span>
     </td>
   </tr>
 </table>
