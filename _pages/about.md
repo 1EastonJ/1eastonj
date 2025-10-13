@@ -68,6 +68,7 @@ Previously, he gained research experience under **Prof. Rong Zheng** at **McMast
 
 🎥 Some demo of my recent projects
 ======
+<h3 style="font-size:22px; font-weight:700; margin-bottom:0.5em; margin-top:1.4em;">
 🤖 <a href="https://github.com/1EastonJ/vive_piper" style="text-decoration:none; color:inherit;">Robot Arm Teleoperation</a> <span style="font-weight:400;">(video)</span>
 </h3>
 <video width="560" height="315" controls style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
