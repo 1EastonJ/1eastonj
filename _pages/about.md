@@ -15,10 +15,11 @@ He is also fortunate to be advised by **Prof. Yanyong Zhang** from the School of
 
 Previously, he gained research experience under **Prof. Rong Zheng** at **McMaster University** and **Prof. Kani Chen** at **HKUST**.
 
+---
 
-
+<h2 style="font-size: 28px; font-weight: 700; margin-bottom: 0.6em;">
 🎓 Education
-======
+</h2>
 <hr style="margin-top: 0.5em; margin-bottom: 1em;">
 
 <table style="width:100%; border-collapse:collapse; border:none; font-size:17px; line-height:1.55;">
