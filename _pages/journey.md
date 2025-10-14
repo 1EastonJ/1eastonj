@@ -7,7 +7,7 @@ permalink: /journey/
 # 🌍 Journey
 
 > “Collect moments, not things.”  
-> A collection of memories and snapshots from my travels — places that shaped how I see the world.
+> Snapshots from places that changed how I think, breathe, and see the world.
 
 <style>
 .gallery {
@@ -15,7 +15,8 @@ permalink: /journey/
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
-  margin-top: 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
 .gallery img {
   width: 30%;
@@ -33,47 +34,92 @@ permalink: /journey/
   font-size: 0.9em;
   margin-top: 4px;
 }
+h2 {
+  text-align: center;
+  margin-top: 40px;
+}
 </style>
 
+---
+
+## 🇺🇸 Madison, USA
 <div class="gallery">
   <div>
-    <img src="../images/travel/tokyo.jpg" alt="Tokyo">
-    <div class="caption">Tokyo — Neon nights and quiet mornings.</div>
+    <img src="../travel/1.png" alt="Madison 1">
+    <div class="caption">Madison — Lake Monona’s quiet glow.</div>
   </div>
   <div>
-    <img src="../images/travel/kyoto-temple.jpg" alt="Kyoto">
-    <div class="caption">Kyoto — Old temples whispering through the rain.</div>
-  </div>
-  <div>
-    <img src="../images/travel/shanghai-skyline.jpg" alt="Shanghai">
-    <div class="caption">Shanghai — Reflections between river and steel.</div>
-  </div>
-  <div>
-    <img src="../images/travel/tibet-road.jpg" alt="Tibet Road">
-    <div class="caption">Tibet — The sky feels closer here.</div>
-  </div>
-  <div>
-    <img src="../images/travel/lake.jpg" alt="Lake">
-    <div class="caption">Yamdrok Lake — Blue that shouldn’t exist in RGB.</div>
-  </div>
-  <div>
-    <img src="../images/travel/beijing-hutong.jpg" alt="Beijing">
-    <div class="caption">Beijing — Shadows, bikes, and afternoon light.</div>
-  </div>
-  <div>
-    <img src="../images/travel/paris.jpg" alt="Paris">
-    <div class="caption">Paris — Croissants and conversation.</div>
-  </div>
-  <div>
-    <img src="../images/travel/snow-mountain.jpg" alt="Snow Mountain">
-    <div class="caption">Yunnan — Mountains that breathe clouds.</div>
-  </div>
-  <div>
-    <img src="../images/travel/beach.jpg" alt="Beach">
-    <div class="caption">Hainan — Sand between thoughts.</div>
-  </div>
-  <div>
-    <img src="../images/travel/night-train.jpg" alt="Night Train">
-    <div class="caption">Night train — The hum of movement and maybe’s.</div>
+    <img src="../travel/2.png" alt="Madison 2">
+    <div class="caption">Madison — Where the wind smells like water.</div>
   </div>
 </div>
+
+## 🇺🇸 California, USA
+<div class="gallery">
+  <div>
+    <img src="../travel/3.png" alt="California">
+    <div class="caption">California — The golden haze that never ends.</div>
+  </div>
+</div>
+
+## 🇭🇰 Hong Kong
+<div class="gallery">
+  <div>
+    <img src="../travel/4.png" alt="Hong Kong 1">
+    <div class="caption">Hong Kong — Hills meet glass and sea.</div>
+  </div>
+  <div>
+    <img src="../travel/5.png" alt="Hong Kong 2">
+    <div class="caption">Hong Kong — Neon, rain, and endless motion.</div>
+  </div>
+</div>
+
+## 🇪🇬 Egypt
+<div class="gallery">
+  <div>
+    <img src="../travel/6.png" alt="Egypt">
+    <div class="caption">Egypt — Sand remembers better than people do.</div>
+  </div>
+</div>
+
+## 🇨🇦 Canada
+<div class="gallery">
+  <div>
+    <img src="../travel/7.png" alt="Canada 1">
+  </div>
+  <div>
+    <img src="../travel/8.png" alt="Canada 2">
+  </div>
+  <div>
+    <img src="../travel/9.png" alt="Canada 3">
+  </div>
+  <div>
+    <img src="../travel/10.png" alt="Canada 4">
+  </div>
+  <div>
+    <img src="../travel/11.png" alt="Canada 5">
+  </div>
+  <div>
+    <img src="../travel/12.png" alt="Canada 6">
+  </div>
+  <div>
+    <img src="../travel/13.png" alt="Canada 7">
+  </div>
+</div>
+
+<div class="caption">Canada — Silence that hums like music.</div>
+
+## 🇨🇳 Harbin, China
+<div class="gallery">
+  <div>
+    <img src="../travel/14.png" alt="Harbin 1">
+  </div>
+  <div>
+    <img src="../travel/15.png" alt="Harbin 2">
+  </div>
+  <div>
+    <img src="../travel/16.png" alt="Harbin 3">
+  </div>
+</div>
+
+<div class="caption">Harbin — Frozen light, warm laughter.</div>
