@@ -2,9 +2,9 @@
 title: "BSense: Wide-Area UAV Detection and Localization with 5G-Advanced Base Station"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-09-04-paper-title-number-1
 excerpt: 'Submitted to MobiCom 2026 (under review). This work focuses on UAV detection and localization using 5G-Advanced base stations and hybrid IMM-UKF tracking.'
-date: 2009-10-01
+date: 2025-09-04
 venue: 'Conference 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
