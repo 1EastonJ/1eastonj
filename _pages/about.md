@@ -69,16 +69,19 @@ Previously, he gained research experience under **[Prof. Rong Zheng](https://sch
 🎥 Some demo of my recent projects
 ======
 <h3 style="font-size:19px; font-weight:700; margin-bottom:0.5em; margin-top:1.4em;">
-🤖 <a href="https://github.com/1EastonJ/vive_piper"
-style="color:#2b6def; text-decoration:none; border-bottom:2px solid transparent;"
-onmouseover="this.style.borderBottom='2px solid #2b6def'"
-onmouseout="this.style.borderBottom='2px solid transparent'">
-Robot Arm Teleoperation</a>
+🤖 Robot Arm Teleoperation
+<a href="https://github.com/1EastonJ/vive_piper"
+   style="color:#2b6def; text-decoration:none; border-bottom:2px solid transparent; margin-left:6px;"
+   onmouseover="this.style.borderBottom='2px solid #2b6def'"
+   onmouseout="this.style.borderBottom='2px solid transparent'">
+   [code]
+</a>
 </h3>
 <video width="560" height="315" controls style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
   <source src="files/piper_teleop.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 
 
