@@ -4,8 +4,8 @@
 🏫 University of Science and Technology of China (USTC)  
 🔁 Exchange Student, University of Wisconsin–Madison  
 📧 [jiangyidong9343@gmail.com](mailto:jiangyidong9343@gmail.com)  
-🌐 [https://1EastonJ.github.io](https://1EastonJ.github.io)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yidong-easton-jiang-b2134934a/) · [GitHub](https://1eastonj.github.io/1eastonj/)
+🌐 [https://1EastonJ.github.io](https://1eastonj.github.io/1eastonj/)
+🔗 [LinkedIn](https://www.linkedin.com/in/yidong-easton-jiang-b2134934a/) · [GitHub](https://github.com/1EastonJ)
 
 ---
 
