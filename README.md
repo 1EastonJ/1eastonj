@@ -1,8 +1,9 @@
 # Yidong (Easton) Jiang
 
 🎓 **Ph.D. Applicant in Robotics / AI**  
-📍 University of Wisconsin–Madison  
-📧 [your_email@wisc.edu]  
+🏫 University of Science and Technology of China (USTC)  
+🔁 Exchange Student, University of Wisconsin–Madison  
+📧 [jiangyidong9343@gmail.com](mailto:jiangyidong9343@gmail.com)  
 🌐 [https://1EastonJ.github.io](https://1EastonJ.github.io)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yidong-easton-jiang-b2134934a/) · [Google Scholar](https://scholar.google.com/citations?user=hBqDFBoAAAAJ&hl=en) · [GitHub](https://github.com/1EastonJ)
 
