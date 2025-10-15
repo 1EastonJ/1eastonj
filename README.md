@@ -5,7 +5,7 @@
 🔁 Exchange Student, University of Wisconsin–Madison  
 📧 [jiangyidong9343@gmail.com](mailto:jiangyidong9343@gmail.com)  
 🌐 [https://1EastonJ.github.io](https://1EastonJ.github.io)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yidong-easton-jiang-b2134934a/) · [Google Scholar](https://scholar.google.com/citations?user=hBqDFBoAAAAJ&hl=en) · [GitHub](https://github.com/1EastonJ)
+🔗 [LinkedIn](https://www.linkedin.com/in/yidong-easton-jiang-b2134934a/) · [GitHub](https://1eastonj.github.io/1eastonj/)
 
 ---
 
@@ -36,11 +36,10 @@ can be combined to build **human-centered robotic intelligence**.
 A VR-based teleoperation framework for intuitive control of robotic arms.  
 Integrated inverse kinematics, motion smoothing, and real-time control visualization.
 
-### Autonomous Navigation Simulation
-Developed path planning and obstacle avoidance algorithms for multi-agent scenarios using ROS and Gazebo.
+### Model-based UAV Tracking
+Designed and implemented a robust UAV tracking system capable of filtering spatial clutter and maintaining accurate trajectories under noisy sensor conditions.
+Utilized an Interacting Multiple Model – Unscented Kalman Filter (IMM-UKF) framework for state estimation, achieving over 99% tracking accuracy compared to GPS ground truth.
 
-### Learning-based Control Experiments
-Implemented policy-gradient reinforcement learning for nonlinear pendulum stabilization in simulation.
 
 ---
 
@@ -49,17 +48,4 @@ Implemented policy-gradient reinforcement learning for nonlinear pendulum stabil
 I am seeking **Ph.D. opportunities starting Fall 2026** in robotics and machine learning.  
 I am especially interested in programs and labs focusing on **learning-based control, teleoperation, and robot autonomy**.
 
----
 
-## 🪶 Website Information
-
-This repository hosts my personal academic website,  
-built with the [Academic Pages](https://academicpages.github.io/) Jekyll template.  
-The website includes:
-- Research & Projects  
-- CV and Statement  
-- Blog posts and reflections on robotics and AI  
-
-To preview locally:
-```bash
-bundle exec jekyll serve
