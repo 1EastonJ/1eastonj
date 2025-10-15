@@ -14,8 +14,6 @@
 I am a **Ph.D. applicant** passionate about robotics, control, and machine learning,
 currently pursuing my undergraduate studies at the **University of Science and Technology of China (USTC)**
 and completing a visiting term at the **University of Wisconsin–Madison**.
-My interests lie in developing **intelligent and adaptive robotic systems** that can perceive, learn,  
-and interact naturally with humans and their environments.
 
 I am particularly fascinated by how control theory and modern learning methods  
 can be combined to build **human-centered robotic intelligence**.
