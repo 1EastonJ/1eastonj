@@ -2,7 +2,7 @@
 
 🎓 **Ph.D. Applicant in Robotics / AI**  
 🏫 University of Science and Technology of China (USTC)  
-🔁 Exchange Student, University of Wisconsin–Madison  
+🔁 Visiting Student, University of Wisconsin–Madison  
 📧 [jiangyidong9343@gmail.com](mailto:jiangyidong9343@gmail.com)  
 🌐 [https://1EastonJ.github.io](https://1eastonj.github.io/1eastonj/)
 🔗 [LinkedIn](https://www.linkedin.com/in/yidong-easton-jiang-b2134934a/) · [GitHub](https://github.com/1EastonJ)
@@ -11,8 +11,9 @@
 
 ## 👋 About Me
 
-I am a **Ph.D. applicant** passionate about **robotics, control, and machine learning**,  
-currently completing my studies at the **University of Wisconsin–Madison**.  
+I am a **Ph.D. applicant** passionate about robotics, control, and machine learning,
+currently pursuing my undergraduate studies at the **University of Science and Technology of China (USTC)**
+and completing a visiting term at the **University of Wisconsin–Madison**.
 My interests lie in developing **intelligent and adaptive robotic systems** that can perceive, learn,  
 and interact naturally with humans and their environments.
 
