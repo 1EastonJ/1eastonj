@@ -1,50 +1,44 @@
-# Yidong (Easton) Jiang
+# **Yidong (Easton) Jiang**
 
-🎓 **Ph.D. Applicant in Robotics / AI**  
-🏫 University of Science and Technology of China (USTC)  
-🔁 Visiting Student, University of Wisconsin–Madison  
-📧 [jiangyidong9343@gmail.com](mailto:jiangyidong9343@gmail.com)  
-🌐 [https://1EastonJ.github.io](https://1eastonj.github.io/1eastonj/)
-🔗 [LinkedIn](https://www.linkedin.com/in/yidong-easton-jiang-b2134934a/)
+🎓 **Ph.D. Applicant in Robotics & AI**
+🏫 **University of Science and Technology of China (USTC)**
+🔁 Visiting Student, **University of Wisconsin–Madison**
+📧 [jiangyidong9343@gmail.com](mailto:jiangyidong9343@gmail.com) · 🌐 [Website](https://1eastonj.github.io/1eastonj/) · [LinkedIn](https://www.linkedin.com/in/yidong-easton-jiang-b2134934a/)
 
 ---
 
 ## 👋 About Me
 
-I am a **Ph.D. applicant** passionate about robotics, control, and machine learning,
-currently pursuing my undergraduate studies at the **University of Science and Technology of China (USTC)**
-and completing a visiting term at the **University of Wisconsin–Madison**.
-
-I am particularly fascinated by how control theory and modern learning methods  
-can be combined to build **human-centered robotic intelligence**.
+I am a **Ph.D. applicant** passionate about combining **control theory** and **machine learning** to build **human-centered robotic intelligence**.
+Currently completing my undergraduate studies at **USTC** and a visiting term at **UW–Madison**.
 
 ---
 
-## 🧠 Research & Technical Interests
+## 🧠 Research Interests
 
-- 🤖 Robot Teleoperation and Manipulation  
-- 🧩 Reinforcement and Imitation Learning for Control  
-- ⚙️ Motion Planning and Dynamic Systems  
-- 👁️ Human–Robot Interaction and Perception  
+* 🤖 Whole-body & Teleoperation Control
+* 🧩 Reinforcement / Imitation Learning for Robotics
+* ⚙️ Model-based Motion Planning & Dynamics
+* 👁️ Human–Robot Interaction
 
 ---
 
 ## 🧪 Selected Projects
 
-### [Robot Arm Teleoperation](https://github.com/1EastonJ/vive_piper)
-A VR-based teleoperation framework for intuitive control of robotic arms.  
-Integrated inverse kinematics, motion smoothing, and real-time control visualization.
+**[HFBody Teleoperation](https://github.com/1EastonJ/vive_g1_hfbody)** —
+Developed a **VR-based half-body teleoperation system** for the Unitree G1 humanoid.
+Enabled real-time upper-body motion control using inverse kinematics, providing a foundation for learning-based whole-body imitation.
 
-### Model-based UAV Tracking
-Designed and implemented a robust UAV tracking system capable of filtering spatial clutter and maintaining accurate trajectories under noisy sensor conditions.
-Utilized an Interacting Multiple Model – Unscented Kalman Filter (IMM-UKF) framework for state estimation, achieving over 99% tracking accuracy compared to GPS ground truth.
+**[Robot Arm Teleoperation](https://github.com/1EastonJ/vive_piper)** —
+Built a **VR teleoperation framework** for intuitive robot arm control, integrating inverse kinematics, motion smoothing, and live 3D visualization.
 
+**Model-based UAV Tracking** —
+Designed a robust UAV tracking system using an **IMM–UKF** framework for dynamic state estimation, achieving >99% accuracy under noisy sensing conditions.
 
 ---
 
 ## 🎯 Goal
 
-I am seeking **Ph.D. opportunities starting Fall 2026** in robotics and machine learning.  
-I am especially interested in programs and labs focusing on **learning-based control, teleoperation, and robot autonomy**.
-
+Seeking **Ph.D. positions (Fall 2026)** in **robotics and learning-based control**,
+with a focus on **teleoperation, autonomy, and intelligent motion systems**.
 
