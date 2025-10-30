@@ -7,14 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Yidong (Easton) Jiang is a senior undergraduate student at the **School of Data Science**, **University of Science and Technology of China (USTC)**.  
-His research interests include **robotics and control**, **whole-body teleoperation**, **diffusion models**, and **reinforcement learning**.
-
-He is currently an intern under the supervision of **[Prof. Xiaobin Xiong](https://scholar.google.com/citations?user=hBqDFBoAAAAJ&hl=en)** at the **University of Wisconsin–Madison**.  
-He is also fortunate to be advised by **[Prof. Yanyong Zhang](https://scholar.google.com/citations?user=qfbPQ1YAAAAJ&hl=en)** from the School of Data Science, USTC.
-
+Yidong (Easton) Jiang is a senior undergraduate student at the **School of Data Science**, **University of Science and Technology of China (USTC)**, and is now a visiting student under the supervision of **[Prof. Xiaobin Xiong](https://scholar.google.com/citations?user=hBqDFBoAAAAJ&hl=en)** at the **University of Wisconsin–Madison**.  
+He also works with **[Prof. Yanyong Zhang](https://scholar.google.com/citations?user=qfbPQ1YAAAAJ&hl=en)** from the School of Data Science, USTC.  
 Previously, he gained research experience under **[Prof. Rong Zheng](https://scholar.google.com/citations?user=uFKeXskAAAAJ&hl=zh-CN)** at **McMaster University** and **[Prof. Kani Chen](https://scholar.google.com/citations?user=h3ONKjwAAAAJ&hl=en)** at **HKUST**.
 
+His research interests lie in **robotics and control**, including **whole-body teleoperation**, **reinforcement learning**, and **model-based methods**.
 ![Research Overview](files/research_map.png)
 
 ---
