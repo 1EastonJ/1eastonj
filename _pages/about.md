@@ -15,6 +15,8 @@ He is also fortunate to be advised by **[Prof. Yanyong Zhang](https://scholar.go
 
 Previously, he gained research experience under **[Prof. Rong Zheng](https://scholar.google.com/citations?user=uFKeXskAAAAJ&hl=zh-CN)** at **McMaster University** and **[Prof. Kani Chen](https://scholar.google.com/citations?user=h3ONKjwAAAAJ&hl=en)** at **HKUST**.
 
+![Research Overview](files/research_map.png)
+
 ---
 
 
