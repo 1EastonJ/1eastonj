@@ -68,7 +68,7 @@ His research interests lie in **robotics and control**, including **whole-body t
 🎥 Some demo of my recent projects
 ======
 <h3 style="font-size:19px; font-weight:700; margin-bottom:0.5em; margin-top:1.4em;">
-🧠 Whole-body Teleoperation (G1 Full-body)
+🧠 Whole-body Teleoperation (G1 Whole-body)
 <a href="https://github.com/1EastonJ/vive_g1_whbody"
    style="color:#2b6def; text-decoration:none; border-bottom:2px solid transparent; margin-left:6px;"
    onmouseover="this.style.borderBottom='2px solid #2b6def'"
