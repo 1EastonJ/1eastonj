@@ -25,6 +25,10 @@ Currently completing my undergraduate studies at **USTC** and a visiting term at
 
 ## 🧪 Selected Projects
 
+**[Mink_RL: Whole-Body Teleoperation Framework](https://github.com/1EastonJ/vive_g1_wholebody)** —
+Developed a **full-body teleoperation system** that combines **reinforcement learning (RL)** for leg control and **inverse kinematics (IK)** for upper-body motion.
+Achieved synchronized, physics-based humanoid motion in MuJoCo, enabling walking, reaching, and balancing under unified whole-body control.
+
 **[HFBody Teleoperation](https://github.com/1EastonJ/vive_g1_hfbody)** —
 Developed a **VR-based half-body teleoperation system** for the Unitree G1 humanoid.
 Enabled real-time upper-body motion control using inverse kinematics, providing a foundation for learning-based whole-body imitation.
