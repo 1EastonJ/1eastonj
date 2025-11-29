@@ -77,7 +77,7 @@ His research interests lie in **robotics and control**, including **whole-body t
 </a>
 </h3>
 <video width="560" height="315" controls style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-  <source src="files/g1_whbody_demo.mp4" type="video/mp4">
+  <source src="files/g1_wholebody_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
