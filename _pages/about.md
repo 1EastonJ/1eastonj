@@ -126,7 +126,7 @@ His research interests lie in **robotics and control**, including **whole-body t
 
 News
 ======
-- 📄 **2025.09:** Paper *“BSense: Wide-Area UAV Detection and Localization with 5G-Advanced Base Station”* under review at **ACM MobiCom 2026**.
+- 📄 **2025.11:** Paper *“Needle in a Haystack: Tracking UAVs from Massive Noise in Real-World 5G-A Base Station Data”* under review at **ACM MobiSys 2026**.
 
 - 🧠 **2025.08 – Present:** Visiting student at the **University of Wisconsin–Madison**, working on **robotics and control** under **Prof. Xiaobin Xiong**.   
 
