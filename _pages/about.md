@@ -68,6 +68,20 @@ His research interests lie in **robotics and control**, including **whole-body t
 🎥 Some demo of my recent projects
 ======
 <h3 style="font-size:19px; font-weight:700; margin-bottom:0.5em; margin-top:1.4em;">
+🔁 Transfer RL Framework (Isaac Gym → Isaac Lab, Homie)
+<a href="https://github.com/user-attachments/assets/6648bdb2-f589-4ac1-8684-d1ce70f176f0"
+   style="color:#2b6def; text-decoration:none; border-bottom:2px solid transparent; margin-left:6px;"
+   onmouseover="this.style.borderBottom='2px solid #2b6def'"
+   onmouseout="this.style.borderBottom='2px solid transparent'">
+   [demo]
+</a>
+</h3>
+<video width="560" height="315" controls style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+  <source src="files/g1_wholebody_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<h3 style="font-size:19px; font-weight:700; margin-bottom:0.5em; margin-top:1.4em;">
 🤖 Whole-body Teleoperation (G1 Whole-body)
 <a href="https://github.com/1EastonJ/vive_g1_whbody"
    style="color:#2b6def; text-decoration:none; border-bottom:2px solid transparent; margin-left:6px;"
