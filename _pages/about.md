@@ -72,7 +72,7 @@ His research interests lie in **robotics and control**, including **whole-body t
 </h3>
 
 <video width="560" controls style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-  <source src="https://github.com/user-attachments/assets/6648bdb2-f589-4ac1-8684-d1ce70f176f0" type="video/mp4">
+  <source src="files/homie_transfer.mp4" type="video/mp4">
 </video>
 
 
